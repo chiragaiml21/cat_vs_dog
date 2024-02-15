@@ -4,3 +4,5 @@ h5py
 matplotlib
 numpy
 opencv-python
+FastAPI
+uvicorn
